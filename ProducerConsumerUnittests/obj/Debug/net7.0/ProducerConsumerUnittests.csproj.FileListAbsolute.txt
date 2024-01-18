@@ -1,0 +1,6 @@
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\obj\Debug\net7.0\ProducerConsumerUnittests.csproj.AssemblyReference.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\obj\Debug\net7.0\ProducerConsumerUnittests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\obj\Debug\net7.0\ProducerConsumerUnittests.AssemblyInfoInputs.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\obj\Debug\net7.0\ProducerConsumerUnittests.AssemblyInfo.cs
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumerUnittests\obj\Debug\net7.0\ProducerConsumerUnittests.csproj.CoreCompileInputs.cache

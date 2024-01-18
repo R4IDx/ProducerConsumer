@@ -1,0 +1,15 @@
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.exe
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.deps.json
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.runtimeconfig.json
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.dll
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\bin\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.AssemblyReference.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.dll
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\refint\ProducerConsumer.dll
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.pdb
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ProducerConsumer.genruntimeconfig.cache
+C:\Users\Micha\OneDrive\Dokumente\Studium\Info3\informatik_3_abgaben_grp_d\ProducerConsumer\ProducerConsumer\obj\Debug\net7.0\ref\ProducerConsumer.dll
